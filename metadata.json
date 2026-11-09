@@ -1,0 +1,6 @@
+{
+  "name": "Studio Kuro Art - Academia de Desenho Anime & Manga",
+  "description": "Plataforma oficial de cursos e metodologia de arte anime/manga inspirada no Studio Kuro Art, com integração e gerenciador de links de checkout da Hotmart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
