@@ -1,9 +1,13 @@
 import { Course, GalleryItem, StudentEvolution, FaqItem } from '../types';
+import heroImage from '../assets/images/hero_anime_illustration_1794235515085.jpg';
+import anatomyImage from '../assets/images/course_anatomy_character_1794235515925.jpg';
+import paintingImage from '../assets/images/course_digital_painting_1794235528899.jpg';
+import masterpieceImage from '../assets/images/gallery_anime_masterpiece_1794235527729.jpg';
 
-export const HERO_IMAGE = '/src/assets/images/hero_anime_illustration_1794235515085.jpg';
-export const ANATOMY_IMAGE = '/src/assets/images/course_anatomy_character_1794235515925.jpg';
-export const PAINTING_IMAGE = '/src/assets/images/course_digital_painting_1794235528899.jpg';
-export const MASTERPIECE_IMAGE = '/src/assets/images/gallery_anime_masterpiece_1794235527729.jpg';
+export const HERO_IMAGE = heroImage;
+export const ANATOMY_IMAGE = anatomyImage;
+export const PAINTING_IMAGE = paintingImage;
+export const MASTERPIECE_IMAGE = masterpieceImage;
 
 export const COURSES: Course[] = [
   {
